@@ -9,25 +9,25 @@ theme="LoveIt"
   link = ""
 
 [menu]
-  [[menu.main]]
-    weight = 1
-    identifier = "posts"
-    # you can add extra information before the name (HTML format is supported), such as icons
-    pre = ""
-    # you can add extra information after the name (HTML format is supported), such as icons
-    post = ""
-    name = "Posts"
-    url = "/posts/"
-    # title will be shown when you hover on this menu link
-    title = ""
-  [[menu.main]]
-    weight = 2
-    identifier = "tags"
-    pre = ""
-    post = ""
-    name = "Tags"
-    url = "/tags/"
-    title = ""
+  # [[menu.main]]
+  #   # weight = 1
+  #   # identifier = "posts"
+  #   # # you can add extra information before the name (HTML format is supported), such as icons
+  #   # pre = ""
+  #   # # you can add extra information after the name (HTML format is supported), such as icons
+  #   # post = ""
+  #   # name = "Posts"
+  #   # url = "/posts/"
+  #   # # title will be shown when you hover on this menu link
+  #   # title = ""
+  # [[menu.main]]
+  #   weight = 2
+  #   identifier = "tags"
+  #   pre = ""
+  #   post = ""
+  #   name = "Tags"
+  #   url = "/tags/"
+  #   title = ""
   [[menu.main]]
     weight = 3
     identifier = "categories"
@@ -116,7 +116,7 @@ theme="LoveIt"
     # whether to omit favicon resource links
     noFavicon = false
     # modern SVG favicon to use in place of older style .png and .ico files
-    svgFavicon = ""
+    svgFavicon = "images/avatar.svg"
     # Android browser theme color
     themeColor = "#ffffff"
     # Safari mask icon color
