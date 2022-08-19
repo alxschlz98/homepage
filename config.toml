@@ -63,7 +63,7 @@ theme="LoveIt"
     # LoveIt NEW | 0.2.0 Header title config
     [params.header.title]
       # URL of the LOGO
-      logo = ""
+      logo = "images/avatar.svg"
       # title name
       name = "Another Dev Blog"
       # you can add extra information before the name (HTML format is supported), such as icons
