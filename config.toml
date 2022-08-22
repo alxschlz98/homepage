@@ -156,7 +156,7 @@ theme="LoveIt"
       # Gravatar Email for preferred avatar in home page
       gravatarEmail = ""
       # URL of avatar shown in home page
-      avatarURL = "images/avatar_transparent.png"
+      avatarURL = "/images/avatar_transparent.png"
       # LoveIt CHANGED | 0.2.7 title shown in home page (HTML format is supported)
       title = "Alexander Schulz"
       # subtitle shown in home page (HTML format is supported)

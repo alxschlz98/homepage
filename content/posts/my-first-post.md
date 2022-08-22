@@ -5,6 +5,8 @@ description: "How did I get here?"
 author: "Alexander Schulz"
 date: 2022-08-18T13:07:30-05:00
 draft: false
+featuredImage: "/images/hello.jpeg"
+featuredImagePreview: "/images/hello.jpeg"
 
 categories: [
     "personal",
