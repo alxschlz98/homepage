@@ -1,6 +1,6 @@
 baseURL = 'https://www.alexschulz.dev/'
 languageCode = 'en-us'
-title = 'Another Dev Blog'
+title = 'Alexander Schulz'
 theme="LoveIt"
 
 [author]
@@ -48,7 +48,7 @@ theme="LoveIt"
   # LoveIt NEW | 0.2.0 date format
   dateFormat = "2006-01-02"
   # website title for Open Graph and Twitter Cards
-  title = "Another Dev Blog"
+  title = "Alexander Schulz"
   # website description for RSS, SEO, Open Graph and Twitter Cards
   description = "An ordinary blog site by Alexander Schulz"
   # website images for Open Graph and Twitter Cards
@@ -63,9 +63,9 @@ theme="LoveIt"
     # LoveIt NEW | 0.2.0 Header title config
     [params.header.title]
       # URL of the LOGO
-      logo = "/images/avatar.svg"
+      logo = "/images/avatar_transparent.png"
       # title name
-      name = "Another Dev Blog"
+      name = "Alexander Schulz"
       # you can add extra information before the name (HTML format is supported), such as icons
       pre = ""
       # you can add extra information after the name (HTML format is supported), such as icons
@@ -156,11 +156,11 @@ theme="LoveIt"
       # Gravatar Email for preferred avatar in home page
       gravatarEmail = ""
       # URL of avatar shown in home page
-      avatarURL = "images/avatar.svg"
+      avatarURL = "images/avatar_transparent.png"
       # LoveIt CHANGED | 0.2.7 title shown in home page (HTML format is supported)
       title = "Alexander Schulz"
       # subtitle shown in home page (HTML format is supported)
-      subtitle = "Another Dev Blog"
+      subtitle = "A blog site"
       # whether to use typeit animation for subtitle
       typeit = true
       # whether to show social links
