@@ -160,7 +160,7 @@ theme="LoveIt"
       # LoveIt CHANGED | 0.2.7 title shown in home page (HTML format is supported)
       title = "Alex Schulz's Blog"
       # subtitle shown in home page (HTML format is supported)
-      subtitle = "The life a 20 something programmer and home barista"
+      subtitle = "some weird thing i set up in my free time"
       # whether to use typeit animation for subtitle
       typeit = true
       # whether to show social links
