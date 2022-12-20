@@ -32,7 +32,3 @@ By making a blog post, I'm accomplishing a few personal achievemnts:
 * Learned Hugo, one of the easiest and quickest ways to build a static web page
 * Building a personal website about myself
 * Finally building that blog post site that every web developer inevitably makes
-
-With that all said, let's get to hosting this website.
-
-Hello world!
