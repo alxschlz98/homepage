@@ -4,7 +4,7 @@ subtitle: "A blog post"
 description: "How did I get here?"
 author: "Alexander Schulz"
 date: 2022-08-18T13:07:30-05:00
-draft: false
+draft: true
 featuredImage: "/images/hello.jpeg"
 featuredImagePreview: "/images/hello.jpeg"
 
