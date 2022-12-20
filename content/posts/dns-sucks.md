@@ -3,7 +3,7 @@ title: "DNS Nightmares"
 subtitle: "A journey into annoyance"
 description: "DNS troubles"
 date: 2022-08-22T08:23:17-05:00
-draft: false
+draft: true
 featuredImage: "/images/clouds.jpg"
 featuredImagePreview: "/images/clouds.jpg"
 
